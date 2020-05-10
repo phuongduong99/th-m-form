@@ -1,0 +1,228 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C6888FAB-0FAF-4961-861D-03FB5D9F97EC}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>QLBV</RootNamespace>
+    <AssemblyName>QLBV</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ChildFormBS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChildFormBS.Designer.cs">
+      <DependentUpon>ChildFormBS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ChildFormHD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChildFormHD.Designer.cs">
+      <DependentUpon>ChildFormHD.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ChildFormHT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChildFormHT.Designer.cs">
+      <DependentUpon>ChildFormHT.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ChildFormKhac.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChildFormKhac.Designer.cs">
+      <DependentUpon>ChildFormKhac.cs</DependentUpon>
+    </Compile>
+    <Compile Include="coBHYT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="coBHYT.Designer.cs">
+      <DependentUpon>coBHYT.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DAO\KetNoiDB.cs" />
+    <Compile Include="ChildformCTKCB.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChildformCTKCB.Designer.cs">
+      <DependentUpon>ChildformCTKCB.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Khamchuabenh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Khamchuabenh.Designer.cs">
+      <DependentUpon>Khamchuabenh.cs</DependentUpon>
+    </Compile>
+    <Compile Include="koBHYT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="koBHYT.Designer.cs">
+      <DependentUpon>koBHYT.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="test.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="test.Designer.cs">
+      <DependentUpon>test.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="ChildFormBS.resx">
+      <DependentUpon>ChildFormBS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChildFormHD.resx">
+      <DependentUpon>ChildFormHD.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChildFormHT.resx">
+      <DependentUpon>ChildFormHT.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChildFormKhac.resx">
+      <DependentUpon>ChildFormKhac.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="coBHYT.resx">
+      <DependentUpon>coBHYT.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChildformCTKCB.resx">
+      <DependentUpon>ChildformCTKCB.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Khamchuabenh.resx">
+      <DependentUpon>Khamchuabenh.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="koBHYT.resx">
+      <DependentUpon>koBHYT.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="test.resx">
+      <DependentUpon>test.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="DTO\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nurse-16 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\doctor-16 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\doctor-16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nurse-16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\inform-16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\warning-16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\warning-4-16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\door-5-16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dnd-16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\credit-card-7-16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\collaborator-16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\group-16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\contacts-16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\desktop-2-256.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\desktop-2-16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrows %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrows.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\video.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

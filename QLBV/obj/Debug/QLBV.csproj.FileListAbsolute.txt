@@ -1,0 +1,53 @@
+D:\QLBV\QLBV\QLBV\bin\Debug\QLBV.exe.config
+D:\QLBV\QLBV\QLBV\bin\Debug\QLBV.exe
+D:\QLBV\QLBV\QLBV\bin\Debug\QLBV.pdb
+D:\QLBV\QLBV\QLBV\obj\Debug\QLBV.csprojResolveAssemblyReference.cache
+D:\QLBV\QLBV\QLBV\obj\Debug\QLBV.frmMain.resources
+D:\QLBV\QLBV\QLBV\obj\Debug\QLBV.Properties.Resources.resources
+D:\QLBV\QLBV\QLBV\obj\Debug\QLBV.csproj.GenerateResource.Cache
+D:\QLBV\QLBV\QLBV\obj\Debug\QLBV.exe
+D:\QLBV\QLBV\QLBV\obj\Debug\QLBV.pdb
+C:\Users\TIENCANH\Desktop\prj_ql2020\QLBV\bin\Debug\QLBV.exe.config
+C:\Users\TIENCANH\Desktop\prj_ql2020\QLBV\obj\Debug\QLBV.exe
+C:\Users\TIENCANH\Desktop\prj_ql2020\QLBV\obj\Debug\QLBV.pdb
+C:\Users\TIENCANH\Desktop\prj_ql2020\QLBV\bin\Debug\QLBV.exe
+C:\Users\TIENCANH\Desktop\prj_ql2020\QLBV\bin\Debug\QLBV.pdb
+C:\Users\TIENCANH\Desktop\prj_ql2020\QLBV\obj\Debug\QLBV.csprojResolveAssemblyReference.cache
+C:\Users\TIENCANH\Desktop\prj_ql2020\QLBV\obj\Debug\QLBV.frmMain.resources
+C:\Users\TIENCANH\Desktop\prj_ql2020\QLBV\obj\Debug\QLBV.Properties.Resources.resources
+C:\Users\TIENCANH\Desktop\prj_ql2020\QLBV\obj\Debug\QLBV.csproj.GenerateResource.Cache
+C:\Users\TIENCANH\Desktop\prj_ql2020\QLBV\obj\Debug\QLBV.LogIn.resources
+C:\Users\TIENCANH\Desktop\New folder\QLBV\bin\Debug\QLBV.exe.config
+C:\Users\TIENCANH\Desktop\New folder\QLBV\obj\Debug\QLBV.exe
+C:\Users\TIENCANH\Desktop\New folder\QLBV\obj\Debug\QLBV.pdb
+C:\Users\TIENCANH\Desktop\New folder\QLBV\obj\Debug\QLBV.csprojResolveAssemblyReference.cache
+C:\Users\TIENCANH\Desktop\New folder\QLBV\obj\Debug\QLBV.LogIn.resources
+C:\Users\TIENCANH\Desktop\New folder\QLBV\obj\Debug\QLBV.Properties.Resources.resources
+C:\Users\TIENCANH\Desktop\New folder\QLBV\obj\Debug\QLBV.csproj.GenerateResource.Cache
+C:\Users\TIENCANH\Desktop\New folder\QLBV\bin\Debug\QLBV.exe
+C:\Users\TIENCANH\Desktop\New folder\QLBV\bin\Debug\QLBV.pdb
+C:\Users\TIENCANH\Desktop\New folder\QLBV\obj\Debug\QLBV.frmMainForm.resources
+C:\Users\TIENCANH\Desktop\New folder\QLBV\obj\Debug\QLBV.test.resources
+C:\Users\TIENCANH\Desktop\New folder\QLBV\obj\Debug\QLBV.frmChildFormBS.resources
+C:\Users\TIENCANH\Desktop\New folder\QLBV\obj\Debug\QLBV.frmChildFormHT.resources
+C:\Users\TIENCANH\Desktop\New folder\QLBV\obj\Debug\QLBV.frmChildFormKhac.resources
+C:\Users\TIENCANH\Desktop\New folder\QLBV\obj\Debug\QLBV.frmcoBHYT.resources
+C:\Users\TIENCANH\Desktop\New folder\QLBV\obj\Debug\QLBV.frmkoBHYT.resources
+C:\Users\admin\OneDrive\Máy tính\chi_dung_de_pull-push\QLBV\bin\Debug\QLBV.exe.config
+C:\Users\admin\OneDrive\Máy tính\chi_dung_de_pull-push\QLBV\obj\Debug\QLBV.exe
+C:\Users\admin\OneDrive\Máy tính\chi_dung_de_pull-push\QLBV\obj\Debug\QLBV.pdb
+C:\Users\admin\OneDrive\Máy tính\chi_dung_de_pull-push\QLBV\bin\Debug\QLBV.exe
+C:\Users\admin\OneDrive\Máy tính\chi_dung_de_pull-push\QLBV\bin\Debug\QLBV.pdb
+C:\Users\admin\OneDrive\Máy tính\chi_dung_de_pull-push\QLBV\obj\Debug\QLBV.csprojResolveAssemblyReference.cache
+C:\Users\admin\OneDrive\Máy tính\chi_dung_de_pull-push\QLBV\obj\Debug\QLBV.frmChildFormBS.resources
+C:\Users\admin\OneDrive\Máy tính\chi_dung_de_pull-push\QLBV\obj\Debug\QLBV.frmChildFormHT.resources
+C:\Users\admin\OneDrive\Máy tính\chi_dung_de_pull-push\QLBV\obj\Debug\QLBV.frmChildFormKhac.resources
+C:\Users\admin\OneDrive\Máy tính\chi_dung_de_pull-push\QLBV\obj\Debug\QLBV.frmcoBHYT.resources
+C:\Users\admin\OneDrive\Máy tính\chi_dung_de_pull-push\QLBV\obj\Debug\QLBV.frmkoBHYT.resources
+C:\Users\admin\OneDrive\Máy tính\chi_dung_de_pull-push\QLBV\obj\Debug\QLBV.frmMainForm.resources
+C:\Users\admin\OneDrive\Máy tính\chi_dung_de_pull-push\QLBV\obj\Debug\QLBV.Properties.Resources.resources
+C:\Users\admin\OneDrive\Máy tính\chi_dung_de_pull-push\QLBV\obj\Debug\QLBV.test.resources
+C:\Users\admin\OneDrive\Máy tính\chi_dung_de_pull-push\QLBV\obj\Debug\QLBV.csproj.GenerateResource.Cache
+C:\Users\admin\OneDrive\Máy tính\chi_dung_de_pull-push\QLBV\obj\Debug\QLBV.frmChildFormKCB.resources
+C:\Users\admin\OneDrive\Máy tính\chi_dung_de_pull-push\QLBV\obj\Debug\QLBV.ChildformCTKCB.resources
+C:\Users\admin\OneDrive\Máy tính\chi_dung_de_pull-push\QLBV\obj\Debug\QLBV.frmChildFormHD.resources
